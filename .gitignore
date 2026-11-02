@@ -1,0 +1,5 @@
+/app/config.local.php
+/app/storage/
+/ACCESO-LOCAL.txt
+/public/assets/uploads/*
+!/public/assets/uploads/.htaccess
